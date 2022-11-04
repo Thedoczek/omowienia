@@ -1,0 +1,29 @@
+To tak:
+
+Basics:
+
+gracz startuje z 
+
+GGG
+GVG # V - village (potrzebujemy village, town i city żeby upgrade robić)
+GGG 
+
+co ture dostaje:
+
+10 golda - V
+20 golda - T
+50 golda - C
+
+# wartości do zmieny 
+
+# może budować mury, koszary, targi i porty 
+
+mury = + 1 do obrony za każdy ich poziom (lv 1 mury zatrzymają taki sam lub niższy lv barbarzyńców i obniżą im lv o 1 do następnej tury (attrition))
+
+koszary = + 1 do wojska - wojsko na zasadzie n lv zabija n lv a jeśli n + 5 lv vs n lv to zostaje lv 5 
+
+targ = daje 10 złota / tura 
+
+port - 15 złota tura 
+
+# idę spać jak masz uwagi to daj znać :) GL na parkrunie 
