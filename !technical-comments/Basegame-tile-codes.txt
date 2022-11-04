@@ -7,70 +7,70 @@ E - Road end
 B - Bridge
 
 A
-GGGGG
-GGGGG
-GGKGG
-GGEGG
-GGRGG
+GGGGG ..c..
+GGGGG .....
+GGKGG ..X..
+GGEGG .....
+GGRGG ..X..
 
 B
-GGGGG
-GGGGG
-GGKGG
-GGGGG
-GGGGG
+GGGGG ..c..
+GGGGG .....
+GGKGG ..X..
+GGGGG .....
+GGGGG .....
 
-C
-CCCCC
-CCCCC
-CCCCC  S
-CCCCC
-CCCCC
+C (Shield)
+CCCCC .....
+CCCCC .....
+CCCCC ..X..
+CCCCC .....
+CCCCC .....
 
-D
-GCCCG
-GGGGG
-RRRRR + klocek startowy
-GGGGG
-GGGGG
+D (and start block)
+GCCCG ..X..
+GGGGG .....
+RRRRR ..X..
+GGGGG .....
+GGGGG ..c..
 
 E
-GCCCG
-GGGGG
-GGGGG
-GGGGG
-GGGGG
+GCCCG ..X..
+GGGGG .....
+GGGGG ..c..
+GGGGG .....
+GGGGG .....
 
-F
-GGGGG
-CCCCC
-CCCCC  S
-CCCCC
-GGGGG
+F (Shield)
+GGGGG ..c..
+CCCCC .....
+CCCCC ..X..
+CCCCC .....
+GGGGG ..c..
 
 G
-GGGGG
-CCCCC
-CCCCC
-CCCCC
-GGGGG
+GGGGG ..c..
+CCCCC .....
+CCCCC ..X..
+CCCCC .....
+GGGGG ..c..
 
 H
-GGGGG
-CGGGC
-CGGGC
-CGGGC
-GGGGG
+GGGGG .....
+CGGGC .....
+CGGGC X.c.X
+CGGGC .....
+GGGGG .....
 
 I
-GCCCG
-CGGGG
-CGGGG
-CGGGG
-GGGGG
+GCCCG ..X..
+CGGGG .....
+CGGGG X....
+CGGGG ...c.
+GGGGG .....
 
 J
-GCCCG
+GCCCG .....
 GGGGG
 GGRRR
 GGRGG
